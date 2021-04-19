@@ -8,8 +8,13 @@ body {
     width: fit-content;
   }
 
- ul {
-    border-style: dotted;
-    border-color: blue;
+ 
+  
+ h3{color:firebrick}
+
+  html{
+    margin: 25px 200px 75px 100px;
   }
-  h3{color:firebrick}
+
+  h1{padding: 70px;}
+
