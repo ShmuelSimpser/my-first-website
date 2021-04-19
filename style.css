@@ -1,5 +1,6 @@
 body {
     background: rgb(37, 230, 62);
+    font-family: 'Exo 2', sans-serif;
   } 
 
   h1 {
@@ -17,4 +18,13 @@ body {
   }
 
   h1{padding: 70px;}
+
+  .link{
+      color: black;
+      padding: 20px;
+    }
+
+    .img{
+        padding-top: 20px;
+    }
 
