@@ -2,4 +2,14 @@ body {
     background: rgb(37, 230, 62);
   } 
 
- 
+  h1 {
+    border-style: solid;
+    border-color: rgb(8, 8, 133);
+    width: fit-content;
+  }
+
+ ul {
+    border-style: dotted;
+    border-color: blue;
+  }
+  h3{color:firebrick}
